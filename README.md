@@ -21,3 +21,12 @@ External Task in `external-tasks/open/` des jeweiligen Ziel-Repositories
 abgelegt. Anforderungen an dieses Projekt liegen entsprechend hier unter
 `external-tasks/open/`. Format:
 [`ECO-ARC-0006`](https://github.com/thomaspeterkueper/kueper-ecosystem/blob/main/decisions/ECO-ARC-0006-2026-DE.md).
+
+## Manuskripte
+
+Lektorierte Fassungen vom 25.10.2026 (Originale im Claude-Projekt „Lektoriat“, Stand August 2025):
+
+- [Leitfaden – Fassung 1.1](manuskript/fluide-hermeneutik-leitfaden-v1-lektoriert.md)
+- [Praxisleitfaden – Fassung 2.1](manuskript/fluide-hermeneutik-praxisleitfaden-v2-lektoriert.md)
+- [Exposé – Fassung 1.1](manuskript/expose-fluide-hermeneutik-lektoriert.md)
+- [Lektoratsbericht](manuskript/lektoratsbericht-2026-10-25.md)
